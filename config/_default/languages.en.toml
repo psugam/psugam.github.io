@@ -1,0 +1,26 @@
+languageCode = "en-AU"
+languageName = "English (Australia)"
+languageDirection = "ltr"
+weight = 1
+
+title = "Sugam"
+copyright = "&copy; 2025 Sugam Pokharel"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["samples"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Sugam"
+  image = "img/author.jpg"
+  headline = "ML, GIS, Linguistics & more !!"
+  bio = "Learning something new everyday ! :dog:"
+  links = [
+    { x-twitter = "https://twitter.com/" },
+    { facebook = "https://facebook.com/" },
+    { linkedin = "https://linkedin.com/" },
+    { youtube = "https://youtube.com/" },
+    { github  = "https://github.com/psugam"}
+  ]
