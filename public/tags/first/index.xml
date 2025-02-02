@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First on Sugam</title>
-    <link>//localhost:1313/tags/first/</link>
+    <link>http://localhost:1313/tags/first/</link>
     <description>Recent content in First on Sugam</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>//localhost:1313/posts/2025/post-first-my/</link>
+      <link>http://localhost:1313/posts/2025/post-first-my/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2025/post-first-my/</guid>
+      <guid>http://localhost:1313/posts/2025/post-first-my/</guid>
       <description>Checking if all the rendering is ok.</description>
     </item>
   </channel>
