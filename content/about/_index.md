@@ -14,7 +14,7 @@ I am a **Computer Engineering student** with a passion for **Machine Learning, N
 - **Geographic Information Systems (GIS)**: Experienced in **QGIS, Python, and Leaflet.js** for spatial analysis, mapping, and geospatial data visualization.
 - **Data Visualization**: Creating interactive maps, dashboards, and reports using **Power BI, Matplotlib, and GeoJSON**.
 
-## Notable Projects
+<!-- ## Notable Projects
 
 - **Nepali Spelling Correction Using Transformer Models**: Developed an **NLP-based spelling correction system** for the Nepali language using Transformer models. Fine-tuned **mT5, mBART, and Varta-T5** to enhance spelling accuracy.
 - **MERN Blog Website**: Built a **full-stack blog application** with authentication and CRUD functionality.
@@ -27,4 +27,4 @@ I am a **Computer Engineering student** with a passion for **Machine Learning, N
 
 I am currently seeking **internships and job opportunities** where I can apply my technical skills in **AI, NLP, software development, and data science**. I am eager to work on challenging projects, collaborate with innovative teams, and contribute to impactful solutions.
 
-If you are interested in collaborating or have an exciting opportunity, feel free to reach out! 🚀
+If you are interested in collaborating or have an exciting opportunity, feel free to reach out! 🚀 -->
