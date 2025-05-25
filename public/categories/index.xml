@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sugam</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.sugam-pokharel.com.np/categories/</link>
     <description>Recent content on Sugam</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sugam-pokharel.com.np/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Category1</title>
-      <link>http://localhost:1313/categories/category1/</link>
+      <link>https://www.sugam-pokharel.com.np/categories/category1/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/category1/</guid>
+      <guid>https://www.sugam-pokharel.com.np/categories/category1/</guid>
       <description></description>
     </item>
     <item>
       <title>Category2</title>
-      <link>http://localhost:1313/categories/category2/</link>
+      <link>https://www.sugam-pokharel.com.np/categories/category2/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/category2/</guid>
+      <guid>https://www.sugam-pokharel.com.np/categories/category2/</guid>
       <description></description>
     </item>
     <item>
       <title>Latin</title>
-      <link>http://localhost:1313/categories/latin/</link>
+      <link>https://www.sugam-pokharel.com.np/categories/latin/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/latin/</guid>
+      <guid>https://www.sugam-pokharel.com.np/categories/latin/</guid>
       <description></description>
     </item>
     <item>
       <title>Nepal</title>
-      <link>http://localhost:1313/categories/nepal/</link>
+      <link>https://www.sugam-pokharel.com.np/categories/nepal/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/nepal/</guid>
+      <guid>https://www.sugam-pokharel.com.np/categories/nepal/</guid>
       <description></description>
     </item>
   </channel>

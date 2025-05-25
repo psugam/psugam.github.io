@@ -2,151 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sugam</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.sugam-pokharel.com.np/tags/</link>
     <description>Recent content on Sugam</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
     <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sugam-pokharel.com.np/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/ai/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithms</title>
-      <link>http://localhost:1313/tags/algorithms/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/algorithms/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/algorithms/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>ANN</title>
-      <link>http://localhost:1313/tags/ann/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/ann/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ann/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/ann/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Visualization</title>
-      <link>http://localhost:1313/tags/data-visualization/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/data-visualization/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/data-visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Full Stack</title>
-      <link>http://localhost:1313/tags/full-stack/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/full-stack/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/full-stack/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/full-stack/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/history/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/history/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/machine-learning/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Mapping</title>
-      <link>http://localhost:1313/tags/mapping/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/mapping/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mapping/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/mapping/</guid>
       <description></description>
     </item>
     <item>
       <title>MERN</title>
-      <link>http://localhost:1313/tags/mern/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/mern/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mern/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/mern/</guid>
       <description></description>
     </item>
     <item>
       <title>Nepal</title>
-      <link>http://localhost:1313/tags/nepal/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/nepal/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nepal/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/nepal/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/python/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Visualization</title>
-      <link>http://localhost:1313/tags/visualization/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/visualization/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/visualization/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/web-development/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/web-development/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/deep-learning/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/nlp/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nlp/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformers</title>
-      <link>http://localhost:1313/tags/transformers/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/transformers/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/transformers/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/transformers/</guid>
       <description></description>
     </item>
     <item>
       <title>Checking</title>
-      <link>http://localhost:1313/tags/checking/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/checking/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/checking/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/checking/</guid>
       <description></description>
     </item>
     <item>
       <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/first/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/first/</guid>
       <description></description>
     </item>
     <item>
       <title>Substack</title>
-      <link>http://localhost:1313/tags/substack/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/substack/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/substack/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/substack/</guid>
       <description></description>
     </item>
     <item>
       <title>Sugam</title>
-      <link>http://localhost:1313/tags/sugam/</link>
+      <link>https://www.sugam-pokharel.com.np/tags/sugam/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sugam/</guid>
+      <guid>https://www.sugam-pokharel.com.np/tags/sugam/</guid>
       <description></description>
     </item>
   </channel>

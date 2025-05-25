@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Sugam</title>
-    <link>http://localhost:1313/tags/deep-learning/</link>
+    <link>https://www.sugam-pokharel.com.np/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on Sugam</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
     <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sugam-pokharel.com.np/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nepali Spelling Correction Using Transformer Models</title>
-      <link>http://localhost:1313/projects/sugam/nepali_spelling_correction/</link>
+      <link>https://www.sugam-pokharel.com.np/projects/sugam/nepali_spelling_correction/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/sugam/nepali_spelling_correction/</guid>
+      <guid>https://www.sugam-pokharel.com.np/projects/sugam/nepali_spelling_correction/</guid>
       <description></description>
     </item>
   </channel>
