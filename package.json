@@ -10,8 +10,16 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "description": "",
   "devDependencies": {
     "hugo-extended": "^0.146.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psugam/psugam.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/psugam/psugam.github.io/issues"
+  },
+  "homepage": "https://github.com/psugam/psugam.github.io#readme",
+  "description": ""
 }
