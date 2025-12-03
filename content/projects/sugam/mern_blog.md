@@ -1,11 +1,11 @@
----
-title: "MERN Website"
-date: 2025-02-06
-summary: "A full-stack blog website built with the MERN stack."
-tags: ["Web Development", "MERN", "Full Stack"]
-image: "https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png"
-github: "https://github.com/psugam/blog_render"
----
++++ 
+date = '2025-06-04T18:07:33+05:45' 
+draft = false 
+title = 'Mern Website' 
+authors=['Sugam'] 
+tags=['Web Development', 'MERN', 'Full Stack'] 
+toc=false 
++++
 
 ## Overview
 This project is a fully functional blog website developed using the MERN stack. It allows users to create, edit, and delete posts with a user-friendly interface.

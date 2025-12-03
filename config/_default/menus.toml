@@ -1,0 +1,26 @@
+  [[main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+
+   [[main]]
+    name = 'About'
+    pageRef ='/about/'
+    weight = 50 
+
+  [[main]]
+    name='Projects'
+    identifier='projects'
+    url='/projects/'
+    weight=70
+     
+ [[main]]
+      parent = "projects"
+      name = "Maps"
+      url = "/projects/maps/map-showcase"
+      weight = 71
