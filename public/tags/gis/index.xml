@@ -7,13 +7,13 @@
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
-    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MAPS</title>
-      <link>http://localhost:1313/projects/sugam/post-first-my/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/sugam/post-first-my/</guid>
+      <link>http://localhost:1313/projects/maps/map-showcase/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/maps/map-showcase/</guid>
       <description>Some of my maps</description>
     </item>
   </channel>

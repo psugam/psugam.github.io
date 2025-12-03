@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS</title>
+      <link>http://localhost:1313/categories/gis/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/gis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maps</title>
+      <link>http://localhost:1313/categories/maps/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/maps/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Category1</title>
       <link>http://localhost:1313/categories/category1/</link>

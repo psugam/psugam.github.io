@@ -16,12 +16,5 @@
       <guid>http://localhost:1313/posts/2025/post-first-my/</guid>
       <description>Checking if all the rendering is ok.</description>
     </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/projects/sugam/post-first-my/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/sugam/post-first-my/</guid>
-      <description>Checking if all the rendering is ok.</description>
-    </item>
   </channel>
 </rss>
