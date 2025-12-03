@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latin on Sugam</title>
-    <link>http://localhost:1313/categories/latin/</link>
+    <link>http://localhost:53382/categories/latin/</link>
     <description>Recent content in Latin on Sugam</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/latin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53382/categories/latin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Substack post</title>
-      <link>http://localhost:1313/posts/2025/second_post/</link>
+      <link>http://localhost:53382/posts/2025/second_post/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/second_post/</guid>
+      <guid>http://localhost:53382/posts/2025/second_post/</guid>
       <description>I wrote a post on SubStack.</description>
     </item>
   </channel>

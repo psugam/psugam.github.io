@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mapping on Sugam</title>
-    <link>http://localhost:1313/tags/mapping/</link>
+    <link>http://localhost:53382/tags/mapping/</link>
     <description>Recent content in Mapping on Sugam</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
     <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53382/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gallic War Map</title>
-      <link>http://localhost:1313/projects/sugam/gallic_war/</link>
+      <link>http://localhost:53382/projects/sugam/gallic_war/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/sugam/gallic_war/</guid>
+      <guid>http://localhost:53382/projects/sugam/gallic_war/</guid>
       <description>A historical map illustrating key locations in Julius Caesar&amp;rsquo;s Gallic War.</description>
     </item>
     <item>
       <title>Nepal Hydropower Map</title>
-      <link>http://localhost:1313/projects/sugam/nepal_hydro/</link>
+      <link>http://localhost:53382/projects/sugam/nepal_hydro/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/sugam/nepal_hydro/</guid>
+      <guid>http://localhost:53382/projects/sugam/nepal_hydro/</guid>
       <description>An interactive map displaying hydropower projects in Nepal.</description>
     </item>
   </channel>

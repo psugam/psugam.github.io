@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>http://localhost:53382/</loc>
             <lastmod>2025-02-25T00:00:00+00:00</lastmod>
           </url>
     
@@ -25,14 +25,14 @@
   
     
       <url>
-            <loc>http://localhost:1313/projects/maps/map-showcase/</loc>
+            <loc>http://localhost:53382/projects/maps/map-showcase/</loc>
             <lastmod>2025-02-25T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/projects/</loc>
+            <loc>http://localhost:53382/projects/</loc>
             <lastmod>2025-02-25T00:00:00+00:00</lastmod>
           </url>
     
@@ -43,7 +43,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/projects/sugam/amazigh_ann/</loc>
+            <loc>http://localhost:53382/projects/sugam/amazigh_ann/</loc>
             <lastmod>2025-02-06T00:00:00+00:00</lastmod>
           </url>
     
@@ -56,38 +56,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/projects/sugam/gallic_war/</loc>
-            <lastmod>2025-02-06T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/sugam/mern_blog/</loc>
-            <lastmod>2025-02-06T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/sugam/ml_from_scratch/</loc>
-            <lastmod>2025-02-06T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/sugam/nepal_hydro/</loc>
+            <loc>http://localhost:53382/projects/sugam/gallic_war/</loc>
             <lastmod>2025-02-06T00:00:00+00:00</lastmod>
           </url>
     
@@ -102,7 +71,38 @@
   
     
       <url>
-            <loc>http://localhost:1313/projects/sugam/nepali_spelling_correction/</loc>
+            <loc>http://localhost:53382/projects/sugam/mern_blog/</loc>
+            <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:53382/projects/sugam/ml_from_scratch/</loc>
+            <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:53382/projects/sugam/nepal_hydro/</loc>
+            <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:53382/projects/sugam/nepali_spelling_correction/</loc>
             <lastmod>2024-02-06T00:00:00+00:00</lastmod>
           </url>
     
@@ -113,7 +113,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/</loc>
+            <loc>http://localhost:53382/posts/</loc>
             <lastmod>2022-01-25T00:00:00+00:00</lastmod>
           </url>
     
@@ -130,7 +130,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/2025/post-first-my/</loc>
+            <loc>http://localhost:53382/posts/2025/post-first-my/</loc>
             <lastmod>2022-01-25T00:00:00+00:00</lastmod>
           </url>
     
@@ -143,7 +143,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>http://localhost:53382/about/</loc>
           </url>
     
   

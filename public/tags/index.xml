@@ -2,172 +2,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sugam</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:53382/tags/</link>
     <description>Recent content on Sugam</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>&amp;copy; 2025 Sugam Pokharel</copyright>
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53382/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cartography</title>
-      <link>http://localhost:1313/tags/cartography/</link>
+      <link>http://localhost:53382/tags/cartography/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cartography/</guid>
+      <guid>http://localhost:53382/tags/cartography/</guid>
       <description></description>
     </item>
     <item>
       <title>GIS</title>
-      <link>http://localhost:1313/tags/gis/</link>
+      <link>http://localhost:53382/tags/gis/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gis/</guid>
+      <guid>http://localhost:53382/tags/gis/</guid>
       <description></description>
     </item>
     <item>
       <title>Maps</title>
-      <link>http://localhost:1313/tags/maps/</link>
+      <link>http://localhost:53382/tags/maps/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/maps/</guid>
+      <guid>http://localhost:53382/tags/maps/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://localhost:53382/tags/ai/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:53382/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithms</title>
-      <link>http://localhost:1313/tags/algorithms/</link>
+      <link>http://localhost:53382/tags/algorithms/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/algorithms/</guid>
+      <guid>http://localhost:53382/tags/algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>ANN</title>
-      <link>http://localhost:1313/tags/ann/</link>
+      <link>http://localhost:53382/tags/ann/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ann/</guid>
+      <guid>http://localhost:53382/tags/ann/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Visualization</title>
-      <link>http://localhost:1313/tags/data-visualization/</link>
+      <link>http://localhost:53382/tags/data-visualization/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <guid>http://localhost:53382/tags/data-visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Full Stack</title>
-      <link>http://localhost:1313/tags/full-stack/</link>
+      <link>http://localhost:53382/tags/full-stack/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/full-stack/</guid>
+      <guid>http://localhost:53382/tags/full-stack/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
+      <link>http://localhost:53382/tags/history/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/history/</guid>
+      <guid>http://localhost:53382/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>http://localhost:53382/tags/machine-learning/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>http://localhost:53382/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Mapping</title>
-      <link>http://localhost:1313/tags/mapping/</link>
+      <link>http://localhost:53382/tags/mapping/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mapping/</guid>
+      <guid>http://localhost:53382/tags/mapping/</guid>
       <description></description>
     </item>
     <item>
       <title>MERN</title>
-      <link>http://localhost:1313/tags/mern/</link>
+      <link>http://localhost:53382/tags/mern/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mern/</guid>
+      <guid>http://localhost:53382/tags/mern/</guid>
       <description></description>
     </item>
     <item>
       <title>Nepal</title>
-      <link>http://localhost:1313/tags/nepal/</link>
+      <link>http://localhost:53382/tags/nepal/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nepal/</guid>
+      <guid>http://localhost:53382/tags/nepal/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>http://localhost:53382/tags/python/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://localhost:53382/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Visualization</title>
-      <link>http://localhost:1313/tags/visualization/</link>
+      <link>http://localhost:53382/tags/visualization/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/visualization/</guid>
+      <guid>http://localhost:53382/tags/visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
+      <link>http://localhost:53382/tags/web-development/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/web-development/</guid>
+      <guid>http://localhost:53382/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
+      <link>http://localhost:53382/tags/deep-learning/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <guid>http://localhost:53382/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
+      <link>http://localhost:53382/tags/nlp/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nlp/</guid>
+      <guid>http://localhost:53382/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformers</title>
-      <link>http://localhost:1313/tags/transformers/</link>
+      <link>http://localhost:53382/tags/transformers/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/transformers/</guid>
+      <guid>http://localhost:53382/tags/transformers/</guid>
       <description></description>
     </item>
     <item>
       <title>Checking</title>
-      <link>http://localhost:1313/tags/checking/</link>
+      <link>http://localhost:53382/tags/checking/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/checking/</guid>
+      <guid>http://localhost:53382/tags/checking/</guid>
       <description></description>
     </item>
     <item>
       <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
+      <link>http://localhost:53382/tags/first/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <guid>http://localhost:53382/tags/first/</guid>
       <description></description>
     </item>
     <item>
       <title>Substack</title>
-      <link>http://localhost:1313/tags/substack/</link>
+      <link>http://localhost:53382/tags/substack/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/substack/</guid>
+      <guid>http://localhost:53382/tags/substack/</guid>
       <description></description>
     </item>
     <item>
       <title>Sugam</title>
-      <link>http://localhost:1313/tags/sugam/</link>
+      <link>http://localhost:53382/tags/sugam/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sugam/</guid>
+      <guid>http://localhost:53382/tags/sugam/</guid>
       <description></description>
     </item>
   </channel>
