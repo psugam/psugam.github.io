@@ -1,10 +1,12 @@
----
-title: "Nepali Spelling Correction Using Transformer Models"
-date: 2024-02-06
-description: "A deep learning-based Nepali spelling correction system using transformer models."
-tags: ["NLP", "Machine Learning", "Deep Learning", "Transformers"]
-image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Nepali_Language_Script.png"
----
++++
+title= "Nepali Spelling Correction Using Transformer Models"
+date= 2024-02-06
+description= "A deep learning-based Nepali spelling correction system using transformer models."
+showFrontMatter=false
+type="post"
+[build]
+  list="never"
++++
 
 ## Nepali Spelling Correction Using Transformer Models
 

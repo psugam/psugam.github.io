@@ -1,13 +1,17 @@
----
-title: "MAPS"
-date: 2025-02-25
++++
+title= "MAPS"
+date= 2025-02-25
 # externalUrl: "https://medium.com/"
-summary: "Some of my maps"
-showReadingTime: true
-tags: ["maps", "GIS", "cartography"]
-categories : ["Maps", "GIS"]
-slug: 'map-showcase'
----
+summary= "Some of my maps"
+showReadingTime= true
+tags= ["maps", "GIS", "cartography"]
+categories = ["Maps", "GIS"]
+slug= 'map-showcase'
+showFrontMatter=false
+type="post"
+[build]
+  list="never"
++++
 
 # 🗺️ Maps Gallery
 

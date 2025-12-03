@@ -1,13 +1,14 @@
----
-title: "My First Post"
-date: 2022-01-25
-# externalUrl: "https://medium.com/"
-summary: "Checking if all the rendering is ok."
-showReadingTime: true
-tags: ["first", "checking", "sugam"]
-categories : ["Category1", "Category2"]
-slug: 'post-first-my'
----
++++
+title= "My First Post"
+date= '2022-01-25'
+summary= "Checking if all the rendering is ok."
+tags= ["first", "checking", "sugam"]
+categories= ["Category1", "Category2"]
+type="post"
+slug='first-post'
+[build]
+  list="never"
++++
 
 # Dillinger
 ## _The Last Markdown Editor, Ever_

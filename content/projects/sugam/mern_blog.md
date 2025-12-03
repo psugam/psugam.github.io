@@ -4,7 +4,10 @@ draft = false
 title = 'Mern Website' 
 authors=['Sugam'] 
 tags=['Web Development', 'MERN', 'Full Stack'] 
-toc=false 
+showFrontMatter=false
+type="post"
+[build]
+  list="never"
 +++
 
 ## Overview

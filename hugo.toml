@@ -59,8 +59,8 @@ defaultMarkdownHandler = "goldmark"
   taxonomy = ["HTML", "RSS"]
 
 
-  [permalinks]
-  posts = "/:year/:month/:slug/"
+  # [permalinks]
+  # posts = "/:year/:month/:slug/"
 
   [minify]
   disableCSS = false

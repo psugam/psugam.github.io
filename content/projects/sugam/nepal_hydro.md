@@ -1,11 +1,13 @@
----
-title: "Nepal Hydropower Map"
-date: 2025-02-06
-summary: "An interactive map displaying hydropower projects in Nepal."
-tags: ["Mapping", "Data Visualization", "Nepal"]
-image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Trishuli_Hydropower_Station.jpg"
-github: "https://github.com/psugam/nepal_hydro"
----
++++
+title= "Nepal Hydropower Map"
+date= 2025-02-06
+summary= "An interactive map displaying hydropower projects in Nepal."
+tags= ["Mapping", "Data Visualization", "Nepal"]
+showFrontMatter=false
+type="post"
+[build]
+  list="never"
++++
 
 ## Overview
 Nepal Hydropower Map is a project that visualizes Nepal's hydropower projects on an interactive map. It provides insights into hydropower distribution and project details.
